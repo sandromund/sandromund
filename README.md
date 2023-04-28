@@ -1,13 +1,16 @@
 ### Hello there 👋
 
 
-
-### Connect
+### Other Profiles
 <a href="https://de.linkedin.com/in/sandro-mund">
   <img align="left" alt="Sandro's LinkedIn" width="20px" height="20px" src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-14linkedin-4102586_113786.png" />
 </a>
 <a href="https://scholar.google.de/citations?user=CdDLTNkAAAAJ&hl=de">
   <img align="left" alt="Sandro's Google Scholar" width="20px" height="20px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/google_scholar_icon_130918.png" />
+</a>
+<a href="https://www.hackerrank.com/sandromund">
+  <img align="left" alt="Sandro's HackerRank" width="20px" height="20px" 
+       src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png"/>
 </a>
 
 <br/>
