@@ -15,7 +15,10 @@
   <img align="left" alt="Sandro's HackerRank" width="20px" height="20px" 
        src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png"/>
 </a>
-
+<a href="https://leetcode.com/sandromund/">
+  <img align="left" alt="Sandro's LeetCode" width="20px" height="20px" 
+       src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"/>
+</a>
 <br/>
 
 ### GitHub Stats
