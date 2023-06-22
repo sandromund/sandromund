@@ -19,6 +19,11 @@
   <img align="left" alt="Sandro's LeetCode" width="20px" height="20px" 
        src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"/>
 </a>
+</a>
+<a href="https://www.chess.com/member/samuok">
+  <img align="left" alt="Sandro's chess.com" width="20px" height="20px" 
+       src="https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/SamCopeland/phpmeXx6V.png"/>
+</a>
 <br/>
 
 ### GitHub Stats
