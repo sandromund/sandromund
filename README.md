@@ -36,11 +36,11 @@
   <tr>
     <td align="center">
   <img align="center" 
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sandromund"&&show_icons=true&theme=dark" />
+       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sandromund"&&show_icons=true&theme=dark"/>
     </td>
     <td align="center">
   <img align="center" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandromund" />
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandromund"/>
 </td>
   </tr>
 </table>
