@@ -26,6 +26,9 @@
 </a>
 <br/>
 
+
+
+
 ### GitHub Stats
 
 
@@ -33,7 +36,7 @@
   <tr>
     <td align="center">
   <img align="center" 
-       src="https://github-readme-stats.vercel.app/api?username=sandromund" />
+       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sandromund"&&show_icons=true&theme=dark" />
     </td>
     <td align="center">
   <img align="center" 
