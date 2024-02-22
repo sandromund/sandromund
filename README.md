@@ -11,6 +11,10 @@
 <a href="https://scholar.google.de/citations?user=CdDLTNkAAAAJ&hl=de">
   <img align="left" alt="Sandro's Google Scholar" width="20px" height="20px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/google_scholar_icon_130918.png" />
 </a>
+<a  href="https://learn.microsoft.com/en-us/users/sandromund-2289/">
+  <img align="left" alt="Sandro's Steam" width="20px" height="20px" 
+       src="https://swimburger.net/media/0zcpmk1b/azure.jpg"/>
+</a>
 <a href="https://www.hackerrank.com/sandromund">
   <img align="left" alt="Sandro's HackerRank" width="20px" height="20px" 
        src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png"/>
@@ -30,6 +34,7 @@
        src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/512px-Steam_icon_logo.svg.png"/>
 </a>
 <br/>
+
 
 
 
